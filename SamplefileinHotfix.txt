@@ -1,1 +1,1 @@
-This is a sample file in Hotfix
+This is a sample file in Hotfix. Added some changes in Hotfix file for mergeing for Integration and Production.
