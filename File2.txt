@@ -1,1 +1,1 @@
-This is a file2 file.
+This is a file2 file. Added some changes to the file.
